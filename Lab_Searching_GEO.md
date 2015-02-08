@@ -383,11 +383,11 @@ manu[,list(length(manufacturer)), by=manufacturer]
 ##    4:                                            454  1
 ##    5:                              454 Life Sciences  1
 ##   ---                                                  
-## 2075: washington university microarray core facility  1
-## 2076:         www.MYcroarray.com, Ann Arbor, MI, USA  1
-## 2077:                                www.agilent.com  1
-## 2078:                           www.chem.agilent.com  1
-## 2079:                            www.combimatrix.com  1
+## 2076: washington university microarray core facility  1
+## 2077:         www.MYcroarray.com, Ann Arbor, MI, USA  1
+## 2078:                                www.agilent.com  1
+## 2079:                           www.chem.agilent.com  1
+## 2080:                            www.combimatrix.com  1
 ```
 
 ## Our `SQL` command
@@ -428,11 +428,11 @@ manu[,list(length(manufacturer)), by=manufacturer]
 ##    4:                                            454  1
 ##    5:                              454 Life Sciences  1
 ##   ---                                                  
-## 2075: washington university microarray core facility  1
-## 2076:         www.MYcroarray.com, Ann Arbor, MI, USA  1
-## 2077:                                www.agilent.com  1
-## 2078:                           www.chem.agilent.com  1
-## 2079:                            www.combimatrix.com  1
+## 2076: washington university microarray core facility  1
+## 2077:         www.MYcroarray.com, Ann Arbor, MI, USA  1
+## 2078:                                www.agilent.com  1
+## 2079:                           www.chem.agilent.com  1
+## 2080:                            www.combimatrix.com  1
 ```
 
 
